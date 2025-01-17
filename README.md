@@ -5,4 +5,5 @@ Add Adafruit GFX and Adafruit ST7789 Libraries
 
 Here is the schematics,
 
-![Nodemcu_ST7789_240_bb](https://github.com/user-attachments/assets/3c8b9d9a-4241-41ad-a897-7e6d44a2af12)
+
+![Nodemcu_ST7789_240_bb](https://github.com/user-attachments/assets/a13a2800-0f72-47eb-b1a3-f1025bba0d8d)
